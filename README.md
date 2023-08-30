@@ -1,4 +1,4 @@
-# Banking_Project
+# Banking Project
 ⚫ PROJECT TITLE: Bank Management System
 
 ⚫ AUTHORS: Tanay Tibrewal
